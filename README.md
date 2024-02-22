@@ -1,4 +1,6 @@
 # The-Impact-of-Virtual-Reality-on-Marketing-and-Advertising
+![image](https://github.com/Mano-Elyts/The-Impact-of-Virtual-Reality-on-Marketing-and-Advertising/assets/142087084/0402e425-e337-488d-8379-f45ab43b4084)
+
 Virtual Reality (VR) is a technology that creates a computer-generated world that can be interacted with through a headset or other devices. This technology has taken over the marketing and advertising industry in the past few years.
 Companies have realized the potential of virtual reality and are using it to their advantage to attract, engage and retain customers.
 
